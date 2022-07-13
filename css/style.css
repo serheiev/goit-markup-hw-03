@@ -146,14 +146,13 @@ body {
 
 .home {
   background-color: var(--dark-bg-color);
-  height: 600px;
   text-align: center;
+  padding: 200px 0;
 }
 
 .home-title {
   color: var(--light-text-color);
   margin: 0 auto;
-  padding-top: 200px;
   width: 696px;
   font-weight: 900;
   font-size: 36px;
